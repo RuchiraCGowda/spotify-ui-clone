@@ -12,4 +12,4 @@ A Spotify-inspired web UI clone built using HTML and CSS, focusing on layout, st
 ## ✨fEATURES
 -Spotify-inspired UI
 -Sidebar Navigation
--Music player layout 
+-Music player layout
