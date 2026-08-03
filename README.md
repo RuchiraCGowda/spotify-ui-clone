@@ -6,7 +6,7 @@ A Spotify-inspired web UI clone built using HTML and CSS, focusing on layout, st
 
 ![UI 2](preview2.png)
 
-## 🚀Tech Stack
+## 🚀Tech Stack   
 -HTML
 -CSS
 
